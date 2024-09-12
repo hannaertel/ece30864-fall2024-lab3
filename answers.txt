@@ -9,3 +9,6 @@ and facilitating Sprints. The Product Owner is in charge of setting the directio
 c: Meeting 1: Sprint Planning Meeting: This moves items from the backlog to the current sprint and discusses what can be accomplished. It officially starts the sprint.
 Meeting 2: Stand Up Meeting: 10 mins long, discusses current progress and problems. 
 Meeting 3: Sprint Retrospective Meeting: Moves Items from sprint to backlog, discusses what was able to be accomplished and what couldn't be.
+
+d: An epic is a large body of work that can be broken up into smaller pieces(Stories). A story is a system requirement that can be described in a few sentences.
+A bug is the smallest unit of work to do. A task is a small item within a story that needs to be done. 
