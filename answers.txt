@@ -2,3 +2,6 @@ a: One pro of Agile is that it is more resilient to changes in scope of the proj
 it is a more iterative approach to developing code and creating a solution. One con is that you can't set as strict of deadlines due to this approach because
 one part of the project make take longer than expected, and this approach allows for that. Another con is that it may be harder to follow what part of the process
 each person is currently in because everything is happening concurrently. These are the pros and cons.
+
+b: The Scrum Master is in charge of handling all of the planning associated with the Agile methodology such as hosting Stand Up meetings, organizing the Jira, 
+and facilitating Sprints. The Product Owner is in charge of setting the direction of the team and managing the stakeholders in the product. 
