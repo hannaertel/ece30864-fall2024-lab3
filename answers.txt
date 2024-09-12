@@ -5,3 +5,7 @@ each person is currently in because everything is happening concurrently. These 
 
 b: The Scrum Master is in charge of handling all of the planning associated with the Agile methodology such as hosting Stand Up meetings, organizing the Jira, 
 and facilitating Sprints. The Product Owner is in charge of setting the direction of the team and managing the stakeholders in the product. 
+
+c: Meeting 1: Sprint Planning Meeting: This moves items from the backlog to the current sprint and discusses what can be accomplished. It officially starts the sprint.
+Meeting 2: Stand Up Meeting: 10 mins long, discusses current progress and problems. 
+Meeting 3: Sprint Retrospective Meeting: Moves Items from sprint to backlog, discusses what was able to be accomplished and what couldn't be.
